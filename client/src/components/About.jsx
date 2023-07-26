@@ -22,12 +22,7 @@ const About = () => {
                             <p className="text-justify leading-7 w-11/12 mx-auto">
                                 Hello! I'm Jared Sunday, a dedicated Full Stack Developer with a passion for creating efficient, scalable, and user-friendly solutions. With a strong foundation in computer science and extensive experience in various technologies, I bring a unique blend of analytical thinking and creative problem-solving to every project.
                             </p>
-                            <p className="text-justify leading-7 w-11/12 mx-auto mt-4">
-                                I specialize in JavaScript and its frameworks, including React for front-end development and Node.js for back-end services. I'm also proficient in Python, and have experience with cloud services like AWS and Google Cloud. My ability to quickly learn and adapt to new technologies makes me a valuable asset to any team.
-                            </p>
-                            <p className="text-justify leading-7 w-11/12 mx-auto mt-4">
-                                I'm always on the lookout for challenging roles that will allow me to grow and make a significant impact. If you're looking for a dedicated, team-oriented professional with a commitment to excellence, I'd love to connect!
-                            </p>
+
                             {/* ----------------------------------- */}
                             {/* future code when I have more experience and projects completed. */}
                             {/* <div className="flex mt-10 items-center gap-7">

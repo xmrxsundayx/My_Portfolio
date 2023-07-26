@@ -16,9 +16,13 @@ const Hireme = () => {
             Do you want any work from me?
           </h2>
           <p className='lg:text-left text-justify max-w-lg text-sm mt-4 text-gray-200 leading-6'>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate dicta ut perferendis? Exercitationem aspernatur aperiam architecto consectetur maiores molestiae perspiciatis esse neque a eligendi ad consequuntur vitae, cumque expedita sed.
+            I specialize in JavaScript and its frameworks, including React for front-end development and Node.js for back-end services. I'm also proficient in Python, and have experience with cloud services like AWS and Google Cloud. My ability to quickly learn and adapt to new technologies makes me a valuable asset to any team.
           </p>
-          <button className='btn-primary mt-10'>Say Hello</button>
+          <p className='lg:text-left text-justify max-w-lg text-sm mt-4 text-gray-200 leading-6'>
+            I'm always on the lookout for challenging roles that will allow me to grow and make a significant impact. If you're looking for a dedicated, team-oriented professional with a commitment to excellence, I'd love to connect!
+          </p>
+          <a href='#contact'><button className='btn-primary mt-10'>Say Hello</button></a>
+          
         </div>
         <img src={hireMe} alt='' className='lg:h-[32rem] h-80 lg:absolute bottom-0 -right-3 object-cover' />
       </div>

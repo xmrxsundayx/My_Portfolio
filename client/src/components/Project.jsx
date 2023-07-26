@@ -20,8 +20,8 @@ const Project = () => {
     },
     {
       imgSrc: project3,
-      title: "Profile",
-      github_link: "#",
+      title: "My Portfolio",
+      github_link: "https://github.com/xmrxsundayx/My_Portfolio",
       live_link: "#"
     },
   ];
