@@ -1,5 +1,6 @@
 import React from "react";
 import aboutMe from "../assets/me_noBG.png";
+import Resume from "../assets/Resume.pdf";
 
 const About = () => {
     const info = [
@@ -39,7 +40,7 @@ const About = () => {
                         </div>
                         <br />
                         <br />
-                        <a className="" href="./src/assets/Resume.pdf" download>
+                        <a className="" href={Resume} download>
                             <button className="btn-primary">
                                 Download CV
                             </button>
