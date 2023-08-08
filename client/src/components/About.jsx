@@ -42,7 +42,7 @@ const About = () => {
                         <br />
                         <a className="" href={Resume} download>
                             <button className="btn-primary">
-                                Download <Resume></Resume>
+                                Download Resume
                             </button>
                         </a>
                     </div>
